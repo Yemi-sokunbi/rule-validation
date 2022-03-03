@@ -1,7 +1,7 @@
 # Rule-validation-API
 A simple rule validation API
 
-**Author:** Fisayo Agboola
+**Author:** 
 
 **Environments**
 
